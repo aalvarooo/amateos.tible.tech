@@ -82,7 +82,7 @@
     ?>
         <div class="container mt-5">
             <h1 class="text-center text-primary">BELLAGAMES</h1>
-            <p class="text-center text-secondary lead">Descubre el emocionante mundo del cine en nuestra página web. Aquí encontrarás los últimos estrenos y un amplio catálogo de películas para que disfrutes de la mejor experiencia cinematográfica.</p>
+            <p class="text-center text-secondary lead">Descubree el emocionante mundo del cine en nuestra página web. Aquí encontrarás los últimos estrenos y un amplio catálogo de películas para que disfrutes de la mejor experiencia cinematográfica.</p>
         </div>
         <div class="container-md border bg-light mt-5">
             <div class="row mt-5">
